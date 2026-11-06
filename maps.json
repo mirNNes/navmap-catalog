@@ -40,6 +40,13 @@
       "country": "South Africa",
       "region": "Africa",
       "status": "coming_soon"
+    },
+
+        {
+      "id": "germany",
+      "country": "Germany",
+      "region": "Europe",
+      "status": "coming_soon"
     }
   ]
 }
