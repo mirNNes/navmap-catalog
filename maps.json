@@ -1,0 +1,45 @@
+
+{
+  "version": 1,
+  "maps": [
+    {
+      "id": "bosnia",
+      "country": "Bosnia and Herzegovina",
+      "region": "Europe",
+      "filename": "bosnia-herzegovina_gmapsupp.img",
+      "url": "https://www.userbeam.de/osm/maps/europe/bosnia-herzegovina/bosnia-herzegovina_gmapsupp.img",
+      "md5": "f52bb033544c8f2207555d6675a83616",
+      "status": "available"
+    },
+    {
+      "id": "croatia",
+      "country": "Croatia",
+      "region": "Europe",
+      "status": "coming_soon"
+    },
+    {
+      "id": "serbia",
+      "country": "Serbia",
+      "region": "Europe",
+      "status": "coming_soon"
+    },
+    {
+      "id": "india",
+      "country": "India",
+      "region": "Asia",
+      "status": "coming_soon"
+    },
+    {
+      "id": "pakistan",
+      "country": "Pakistan",
+      "region": "Asia",
+      "status": "coming_soon"
+    },
+    {
+      "id": "south-africa",
+      "country": "South Africa",
+      "region": "Africa",
+      "status": "coming_soon"
+    }
+  ]
+}
