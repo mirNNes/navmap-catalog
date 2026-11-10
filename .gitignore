@@ -1,0 +1,8 @@
+
+# Generated and temporary catalogs
+maps.generated.json
+maps.merged.json
+maps.backup.json
+
+# Local backup scripts
+*.backup.cjs
