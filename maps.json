@@ -29,9 +29,9 @@
       "region": "Europe",
       "filename": "austria_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/austria/austria_gmapsupp.img",
-      "md5": "1c84ea858b8075f7931e444bd6e411bd",
+      "md5": "a1a3c9f3414d0964315394503815620f",
       "size": "422 MB",
-      "build": "02.11.2026",
+      "build": "09.11.2026",
       "status": "available"
     },
     {
@@ -62,9 +62,9 @@
       "region": "Europe",
       "filename": "belgium_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/belgium/belgium_gmapsupp.img",
-      "md5": "6127d9c4cdefaae45e349f8bd17150fc",
+      "md5": "64c414fc4e46086dde59727817eaa61c",
       "size": "286 MB",
-      "build": "02.11.2026",
+      "build": "09.11.2026",
       "status": "available"
     },
     {
@@ -84,9 +84,9 @@
       "region": "Europe",
       "filename": "bulgaria_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/bulgaria/bulgaria_gmapsupp.img",
-      "md5": "c9d4185c1bc41d07c50615025770dac3",
+      "md5": "bb6f1d8bc2175137cb420fa37b297159",
       "size": "118 MB",
-      "build": "02.11.2026",
+      "build": "09.11.2026",
       "status": "available"
     },
     {
@@ -95,9 +95,9 @@
       "region": "Europe",
       "filename": "croatia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/croatia/croatia_gmapsupp.img",
-      "md5": "bf90ee922147d9dc2abb77c5ed114b77",
+      "md5": "1b6546f3d77136c62b55626c1eec39cf",
       "size": "126 MB",
-      "build": "03.11.2026",
+      "build": "10.11.2026",
       "status": "available"
     },
     {
@@ -117,9 +117,9 @@
       "region": "Europe",
       "filename": "czech-republic_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/czech-republic/czech-republic_gmapsupp.img",
-      "md5": "41d24ac8658b1f5172fb4251082f0c7a",
-      "size": "392 MB",
-      "build": "02.11.2026",
+      "md5": "965ccbac71058722f8a8b043cb2ee7e2",
+      "size": "393 MB",
+      "build": "09.11.2026",
       "status": "available"
     },
     {
@@ -128,9 +128,9 @@
       "region": "Europe",
       "filename": "denmark_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/denmark/denmark_gmapsupp.img",
-      "md5": "77045aba24b8ff12429f5737ee64665f",
-      "size": "247 MB",
-      "build": "03.11.2026",
+      "md5": "324a1eb5d8375128d48bf84ef487a3d7",
+      "size": "248 MB",
+      "build": "10.11.2026",
       "status": "available"
     },
     {
@@ -161,9 +161,9 @@
       "region": "Europe",
       "filename": "finland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/finland/finland_gmapsupp.img",
-      "md5": "96475f0779b1fcb29c0cf2d80efb2061",
+      "md5": "876d64ea37bb8b68e43ab9ec7e838020",
       "size": "481 MB",
-      "build": "03.11.2026",
+      "build": "10.11.2026",
       "status": "available"
     },
     {
@@ -172,9 +172,9 @@
       "region": "Europe",
       "filename": "france_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/france/france_gmapsupp.img",
-      "md5": "00073862cb7e2b257a3bd0e6c79cad7e",
-      "size": "2343 MB",
-      "build": "03.11.2026",
+      "md5": "bda37f95a238be1faa51f25f4e200180",
+      "size": "2345 MB",
+      "build": "10.11.2026",
       "status": "available"
     },
     {
@@ -227,9 +227,9 @@
       "region": "Europe",
       "filename": "hungary_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/hungary/hungary_gmapsupp.img",
-      "md5": "d0da591eb61bea0902f70592e202df5a",
+      "md5": "7d4195fe3744481a449ac274a925dacd",
       "size": "206 MB",
-      "build": "31.10.2026",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -447,9 +447,9 @@
       "region": "Europe",
       "filename": "russian-federation_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/russian-federation/russian-federation_gmapsupp.img",
-      "md5": "783fff77bda997dd8ac0a113961e07f7",
-      "size": "2684 MB",
-      "build": "31.10.2026",
+      "md5": "212d3c5c1c7c0ea744939028719e5172",
+      "size": "2687 MB",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -458,9 +458,9 @@
       "region": "Europe",
       "filename": "serbia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/serbia/serbia_gmapsupp.img",
-      "md5": "34ed0c9fff4384da6fcc03346460fbde",
+      "md5": "6b74c8abda57f7651a0e05d38cb89e40",
       "size": "125 MB",
-      "build": "31.10.2026",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -469,9 +469,9 @@
       "region": "Europe",
       "filename": "slovakia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/slovakia/slovakia_gmapsupp.img",
-      "md5": "9edb7f61cba6ec2f9cdfe252a2f20689",
+      "md5": "5c59e85e7357c52e6554f88573de27e1",
       "size": "173 MB",
-      "build": "31.10.2026",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -480,9 +480,9 @@
       "region": "Europe",
       "filename": "slovenia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/slovenia/slovenia_gmapsupp.img",
-      "md5": "846218bbbb6b0a20a808a49ca1fa3a02",
+      "md5": "f0dfbcf218e255f25b51ecedfcc7a498",
       "size": "134 MB",
-      "build": "31.10.2026",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -491,9 +491,9 @@
       "region": "Europe",
       "filename": "spain_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/spain/spain_gmapsupp.img",
-      "md5": "fb7b8b6513e960530db6b1865f12afcf",
-      "size": "893 MB",
-      "build": "31.10.2026",
+      "md5": "c291f5e6d04b5b43322400202bb7c80f",
+      "size": "894 MB",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -502,9 +502,9 @@
       "region": "Europe",
       "filename": "sweden_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/sweden/sweden_gmapsupp.img",
-      "md5": "1da85f2f1af1f629e422d5654edad815",
-      "size": "581 MB",
-      "build": "31.10.2026",
+      "md5": "f3fbef8d84e802d5c9be6079fca61be3",
+      "size": "582 MB",
+      "build": "07.11.2026",
       "status": "available"
     },
     {
@@ -513,9 +513,9 @@
       "region": "Europe",
       "filename": "switzerland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/switzerland/switzerland_gmapsupp.img",
-      "md5": "491d1b20177838ab0458649d9414c5a6",
+      "md5": "8800eb39dbbc5f8d6132532ca69d789a",
       "size": "277 MB",
-      "build": "01.11.2026",
+      "build": "08.11.2026",
       "status": "available"
     },
     {
@@ -524,9 +524,9 @@
       "region": "Europe",
       "filename": "turkey_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/turkey/turkey_gmapsupp.img",
-      "md5": "c7d99cc230e2ba7a86ae6dd257f953d7",
+      "md5": "48b8a48f3f73b64a00f316ac1c7afcdb",
       "size": "499 MB",
-      "build": "01.11.2026",
+      "build": "08.11.2026",
       "status": "available"
     },
     {
@@ -535,9 +535,9 @@
       "region": "Europe",
       "filename": "ukraine_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/ukraine/ukraine_gmapsupp.img",
-      "md5": "224aba57557e2454670ebbc83aa2bae9",
-      "size": "574 MB",
-      "build": "01.11.2026",
+      "md5": "16cf819cd5c2813100ef0cba97f74614",
+      "size": "575 MB",
+      "build": "08.11.2026",
       "status": "available"
     },
     {
