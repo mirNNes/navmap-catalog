@@ -29,9 +29,9 @@
       "region": "Europe",
       "filename": "austria_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/austria/austria_gmapsupp.img",
-      "md5": "a1a3c9f3414d0964315394503815620f",
-      "size": "422 MB",
-      "build": "09.11.2026",
+      "md5": "cc232b2ca7a0811f8317d71e96b1b692",
+      "size": "423 MB",
+      "build": "16.11.2026",
       "status": "available"
     },
     {
@@ -62,9 +62,9 @@
       "region": "Europe",
       "filename": "belgium_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/belgium/belgium_gmapsupp.img",
-      "md5": "64c414fc4e46086dde59727817eaa61c",
-      "size": "286 MB",
-      "build": "09.11.2026",
+      "md5": "c550474bc3fcd7e424d3d94a6ad3ab4a",
+      "size": "287 MB",
+      "build": "16.11.2026",
       "status": "available"
     },
     {
@@ -84,9 +84,9 @@
       "region": "Europe",
       "filename": "bulgaria_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/bulgaria/bulgaria_gmapsupp.img",
-      "md5": "bb6f1d8bc2175137cb420fa37b297159",
+      "md5": "66b02fd901932e6f345756f295b1aaa5",
       "size": "118 MB",
-      "build": "09.11.2026",
+      "build": "16.11.2026",
       "status": "available"
     },
     {
@@ -117,9 +117,9 @@
       "region": "Europe",
       "filename": "czech-republic_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/czech-republic/czech-republic_gmapsupp.img",
-      "md5": "965ccbac71058722f8a8b043cb2ee7e2",
+      "md5": "7808869bee6a609cec20fd7f7bf63814",
       "size": "393 MB",
-      "build": "09.11.2026",
+      "build": "16.11.2026",
       "status": "available"
     },
     {
