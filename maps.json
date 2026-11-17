@@ -95,9 +95,9 @@
       "region": "Europe",
       "filename": "croatia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/croatia/croatia_gmapsupp.img",
-      "md5": "1b6546f3d77136c62b55626c1eec39cf",
+      "md5": "519b8a6a635e7541cbee7134083fedeb",
       "size": "126 MB",
-      "build": "10.11.2026",
+      "build": "17.11.2026",
       "status": "available"
     },
     {
@@ -128,9 +128,9 @@
       "region": "Europe",
       "filename": "denmark_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/denmark/denmark_gmapsupp.img",
-      "md5": "324a1eb5d8375128d48bf84ef487a3d7",
+      "md5": "d4fb60d0b8a588eca09f4637cd65c29b",
       "size": "248 MB",
-      "build": "10.11.2026",
+      "build": "17.11.2026",
       "status": "available"
     },
     {
@@ -161,9 +161,9 @@
       "region": "Europe",
       "filename": "finland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/finland/finland_gmapsupp.img",
-      "md5": "876d64ea37bb8b68e43ab9ec7e838020",
-      "size": "481 MB",
-      "build": "10.11.2026",
+      "md5": "d116cd420a2f01dcec8091fe0543f46c",
+      "size": "483 MB",
+      "build": "17.11.2026",
       "status": "available"
     },
     {
@@ -172,9 +172,9 @@
       "region": "Europe",
       "filename": "france_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/france/france_gmapsupp.img",
-      "md5": "bda37f95a238be1faa51f25f4e200180",
-      "size": "2345 MB",
-      "build": "10.11.2026",
+      "md5": "b643d2bae68ed21110487f759f1472c5",
+      "size": "2349 MB",
+      "build": "17.11.2026",
       "status": "available"
     },
     {
