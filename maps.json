@@ -183,9 +183,9 @@
       "region": "Europe",
       "filename": "georgia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/georgia/georgia_gmapsupp.img",
-      "md5": "e138320d054a999ae94b0b0a64a1edef",
+      "md5": "866b151c150fc99690bfe3f199e3c94f",
       "size": "64 MB",
-      "build": "11.11.2026",
+      "build": "18.11.2026",
       "status": "available"
     },
     {
@@ -194,9 +194,9 @@
       "region": "Europe",
       "filename": "germany_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/germany/germany_gmapsupp.img",
-      "md5": "c93323e75b15fc067d0fb7d597ea4e30",
-      "size": "2491 MB",
-      "build": "11.11.2026",
+      "md5": "6ad42f4b07a47ffcb79cb46f7018794c",
+      "size": "2493 MB",
+      "build": "18.11.2026",
       "status": "available"
     },
     {
@@ -205,9 +205,9 @@
       "region": "Europe",
       "filename": "great-britain_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/great-britain/great-britain_gmapsupp.img",
-      "md5": "d9289dfa67cd65d29bb594631ebe86f0",
-      "size": "1244 MB",
-      "build": "11.11.2026",
+      "md5": "8d99b1e4f364f45299b06f3f38d1bbce",
+      "size": "1246 MB",
+      "build": "18.11.2026",
       "status": "available"
     },
     {
@@ -216,9 +216,9 @@
       "region": "Europe",
       "filename": "greece_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/greece/greece_gmapsupp.img",
-      "md5": "953f95aa94064e6bfa3a05a777b56e68",
+      "md5": "e53f80abf51323dd53ce0501a3d262b3",
       "size": "214 MB",
-      "build": "11.11.2026",
+      "build": "18.11.2026",
       "status": "available"
     },
     {
@@ -271,9 +271,9 @@
       "region": "Europe",
       "filename": "italy_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/italy/italy_gmapsupp.img",
-      "md5": "14d30d9a2a14cfc10e30f752cca0f282",
-      "size": "1198 MB",
-      "build": "11.11.2026",
+      "md5": "dbb434a66f9eb1ff0d397c05b2fe7c3a",
+      "size": "1199 MB",
+      "build": "18.11.2026",
       "status": "available"
     },
     {
