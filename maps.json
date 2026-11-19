@@ -326,9 +326,9 @@
       "region": "Europe",
       "filename": "luxembourg_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/luxembourg/luxembourg_gmapsupp.img",
-      "md5": "a2571e57cc3069ba1c5b9ee27e9129d1",
+      "md5": "84eddcb577d7099ad59db105d1c1d7fc",
       "size": "24 MB",
-      "build": "12.11.2026",
+      "build": "19.11.2026",
       "status": "available"
     },
     {
@@ -392,9 +392,9 @@
       "region": "Europe",
       "filename": "netherlands_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/netherlands/netherlands_gmapsupp.img",
-      "md5": "f29dcb6d2d5e0ba366619722fbd8ed1b",
-      "size": "488 MB",
-      "build": "12.11.2026",
+      "md5": "daab28912a8930eb81d64847f7a0b2f6",
+      "size": "489 MB",
+      "build": "19.11.2026",
       "status": "available"
     },
     {
@@ -403,9 +403,9 @@
       "region": "Europe",
       "filename": "norway_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/norway/norway_gmapsupp.img",
-      "md5": "54408710a22b51d02d72270586c2ddbf",
+      "md5": "5130e2df86287855b2b83dab2c93dd21",
       "size": "691 MB",
-      "build": "12.11.2026",
+      "build": "19.11.2026",
       "status": "available"
     },
     {
