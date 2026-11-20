@@ -414,9 +414,9 @@
       "region": "Europe",
       "filename": "poland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/poland/poland_gmapsupp.img",
-      "md5": "937f4a62bc2c4154d9e0083dc223355c",
-      "size": "1175 MB",
-      "build": "13.11.2026",
+      "md5": "e79594fa62f81de6f1fa7602582fd1d5",
+      "size": "1177 MB",
+      "build": "20.11.2026",
       "status": "available"
     },
     {
@@ -425,9 +425,9 @@
       "region": "Europe",
       "filename": "portugal_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/portugal/portugal_gmapsupp.img",
-      "md5": "5390f4552d51e8dca99eb180b44d90ac",
+      "md5": "a8ca55cd6526a7bcaca8ab952478606a",
       "size": "263 MB",
-      "build": "13.11.2026",
+      "build": "20.11.2026",
       "status": "available"
     },
     {
@@ -436,9 +436,9 @@
       "region": "Europe",
       "filename": "romania_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/romania/romania_gmapsupp.img",
-      "md5": "deb1a749289b79eaa9c2852371090f32",
+      "md5": "5ac791f2b7941d2871c529eba43ebb21",
       "size": "216 MB",
-      "build": "13.11.2026",
+      "build": "20.11.2026",
       "status": "available"
     },
     {
