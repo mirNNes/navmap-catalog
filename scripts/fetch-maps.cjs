@@ -13,9 +13,15 @@ const REGIONS = {
   "australia-oceania": "Australia & Oceania",
 };
 
-// Start with Europe and Asia.
-// Add other regions here when ready.
-const ACTIVE_REGIONS = ["europe", "asia"];
+const ACTIVE_REGIONS = [
+  "europe",
+  "asia",
+  "africa",
+  "north-america",
+  "central-america",
+  "south-america",
+  "australia-oceania",
+];
 
 async function fetchPage(url) {
   const response = await fetch(url, {
