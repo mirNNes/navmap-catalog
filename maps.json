@@ -95,9 +95,9 @@
       "region": "Europe",
       "filename": "croatia_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/croatia/croatia_gmapsupp.img",
-      "md5": "519b8a6a635e7541cbee7134083fedeb",
+      "md5": "2103ba3f3a1c650b431f29055cece12e",
       "size": "126 MB",
-      "build": "17.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -106,9 +106,9 @@
       "region": "Europe",
       "filename": "cyprus_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/cyprus/cyprus_gmapsupp.img",
-      "md5": "2938a681299646c83b305bff017244a8",
+      "md5": "b0282e8e2ed3d9c5d5e0da723390b225",
       "size": "31 MB",
-      "build": "03.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -128,9 +128,9 @@
       "region": "Europe",
       "filename": "denmark_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/denmark/denmark_gmapsupp.img",
-      "md5": "d4fb60d0b8a588eca09f4637cd65c29b",
-      "size": "248 MB",
-      "build": "17.11.2026",
+      "md5": "0224db90edc77c031bad47f29f3ce079",
+      "size": "249 MB",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -150,9 +150,9 @@
       "region": "Europe",
       "filename": "faroe-islands_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/faroe-islands/faroe-islands_gmapsupp.img",
-      "md5": "d3f0e6398aa157ef5b4eae56769460fe",
+      "md5": "01c14d32e9da461de30fed16406495a0",
       "size": "5 MB",
-      "build": "03.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -161,9 +161,9 @@
       "region": "Europe",
       "filename": "finland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/finland/finland_gmapsupp.img",
-      "md5": "d116cd420a2f01dcec8091fe0543f46c",
+      "md5": "6e9a4dd32383797a85d4635bb7bc6311",
       "size": "483 MB",
-      "build": "17.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -172,9 +172,9 @@
       "region": "Europe",
       "filename": "france_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/france/france_gmapsupp.img",
-      "md5": "b643d2bae68ed21110487f759f1472c5",
-      "size": "2349 MB",
-      "build": "17.11.2026",
+      "md5": "4f71d595c0e9a939dda1be122bcb6e9c",
+      "size": "2351 MB",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -663,9 +663,9 @@
       "region": "Asia",
       "filename": "iraq_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/asia/iraq/iraq_gmapsupp.img",
-      "md5": "f00daeb36e54b4999a3e86fc1f6c2028",
+      "md5": "5adc1187ad4dcfcaf427dd203c52dba4",
       "size": "92 MB",
-      "build": "03.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -894,9 +894,9 @@
       "region": "Asia",
       "filename": "turkmenistan_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/asia/turkmenistan/turkmenistan_gmapsupp.img",
-      "md5": "90da9669bfc86889a9a11f9e0c2f7ae7",
+      "md5": "3434a4dffc34664e806d0863846c7f01",
       "size": "20 MB",
-      "build": "03.11.2026",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
@@ -1180,9 +1180,9 @@
       "region": "North America",
       "filename": "us-west_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/north-america/us-west/us-west_gmapsupp.img",
-      "md5": "92544a7dde299c764ada5c8cd5b16864",
-      "size": "1960 MB",
-      "build": "03.11.2026",
+      "md5": "c20208cce6008e79f35bbc8dfb60adf7",
+      "size": "1966 MB",
+      "build": "24.11.2026",
       "status": "available"
     },
     {
