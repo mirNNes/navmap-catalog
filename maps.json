@@ -326,9 +326,9 @@
       "region": "Europe",
       "filename": "luxembourg_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/luxembourg/luxembourg_gmapsupp.img",
-      "md5": "84eddcb577d7099ad59db105d1c1d7fc",
+      "md5": "e7de23e51bb0113a99468aadebd01e79",
       "size": "24 MB",
-      "build": "19.11.2026",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -348,9 +348,9 @@
       "region": "Europe",
       "filename": "malta_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/malta/malta_gmapsupp.img",
-      "md5": "4d0724a56049e1e26c0d0ecc65761cd4",
+      "md5": "66819de1ca8e604ee67b79d959bf5ca1",
       "size": "6 MB",
-      "build": "05.11.2026",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -381,9 +381,9 @@
       "region": "Europe",
       "filename": "montenegro_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/montenegro/montenegro_gmapsupp.img",
-      "md5": "20ff4489e0a00f8f97e8042a5cc65c5f",
+      "md5": "ee24baa6491806855bde8bc1965f6972",
       "size": "20 MB",
-      "build": "05.11.2026",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -392,9 +392,9 @@
       "region": "Europe",
       "filename": "netherlands_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/netherlands/netherlands_gmapsupp.img",
-      "md5": "daab28912a8930eb81d64847f7a0b2f6",
+      "md5": "ae6fdcaa04e5f593779b6c4b52490fd1",
       "size": "489 MB",
-      "build": "19.11.2026",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -403,9 +403,9 @@
       "region": "Europe",
       "filename": "norway_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/norway/norway_gmapsupp.img",
-      "md5": "5130e2df86287855b2b83dab2c93dd21",
+      "md5": "f87ba5a67b77fe0fb7b47b48e28fe5a8",
       "size": "691 MB",
-      "build": "19.11.2026",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -817,9 +817,9 @@
       "region": "Asia",
       "filename": "south-korea_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/asia/south-korea/south-korea_gmapsupp.img",
-      "md5": "bbc9dd1a7fb10576fe1734724d3a6f3d",
-      "size": "257 MB",
-      "build": "05.11.2026",
+      "md5": "e98bc74377906a7ef2656b6ed72f76e9",
+      "size": "259 MB",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
@@ -1092,9 +1092,9 @@
       "region": "North America",
       "filename": "mexico_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/north-america/mexico/mexico_gmapsupp.img",
-      "md5": "c3adf1b9ffa47b95bb6fa197186aaa69",
-      "size": "589 MB",
-      "build": "05.11.2026",
+      "md5": "d9b7d39cf52aafe932878353884c4140",
+      "size": "590 MB",
+      "build": "26.11.2026",
       "status": "available"
     },
     {
