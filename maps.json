@@ -414,9 +414,9 @@
       "region": "Europe",
       "filename": "poland_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/poland/poland_gmapsupp.img",
-      "md5": "e79594fa62f81de6f1fa7602582fd1d5",
+      "md5": "c8bd535d26ee54401bf735027a336483",
       "size": "1177 MB",
-      "build": "20.11.2026",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -425,9 +425,9 @@
       "region": "Europe",
       "filename": "portugal_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/portugal/portugal_gmapsupp.img",
-      "md5": "a8ca55cd6526a7bcaca8ab952478606a",
+      "md5": "0efdab59a32aa4faaaa0e1af3b743b80",
       "size": "263 MB",
-      "build": "20.11.2026",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -436,9 +436,9 @@
       "region": "Europe",
       "filename": "romania_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/europe/romania/romania_gmapsupp.img",
-      "md5": "5ac791f2b7941d2871c529eba43ebb21",
+      "md5": "5ca83e8d0b3c9e99da20fa97b1d6236a",
       "size": "216 MB",
-      "build": "20.11.2026",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -1015,9 +1015,9 @@
       "region": "Africa",
       "filename": "south-africa-and-lesotho_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/africa/south-africa-and-lesotho/south-africa-and-lesotho_gmapsupp.img",
-      "md5": "876a4a5d57e34f96c82c412e771d0d4f",
-      "size": "382 MB",
-      "build": "06.11.2026",
+      "md5": "138e4588e05376a93f4ab45d87775fff",
+      "size": "383 MB",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -1059,9 +1059,9 @@
       "region": "North America",
       "filename": "canada_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/north-america/canada/canada_gmapsupp.img",
-      "md5": "2677db766759f2a5365eece04bf56ceb",
+      "md5": "dbe6412a9039a0bb4bb65235eb90f827",
       "size": "2906 MB",
-      "build": "20.11.2026",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -1103,9 +1103,9 @@
       "region": "North America",
       "filename": "new-york_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/north-america/new-york/new-york_gmapsupp.img",
-      "md5": "cf752b1fa91fc97c226328084ba20240",
+      "md5": "5d2dc843caf17016c621943fa6040e16",
       "size": "278 MB",
-      "build": "06.11.2026",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -1169,9 +1169,9 @@
       "region": "North America",
       "filename": "us-south_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/north-america/us-south/us-south_gmapsupp.img",
-      "md5": "7fc738a75c29334b624d821ac4383083",
-      "size": "2944 MB",
-      "build": "06.11.2026",
+      "md5": "d4775df259d090603a634f803f37ad0d",
+      "size": "2951 MB",
+      "build": "27.11.2026",
       "status": "available"
     },
     {
@@ -1213,9 +1213,9 @@
       "region": "Australia & Oceania",
       "filename": "australia-oceania_gmapsupp.img",
       "url": "https://www.userbeam.de/osm/maps/australia-oceania/australia-oceania/australia-oceania_gmapsupp.img",
-      "md5": "5a88f8f98f8aa73780eae5fd618d16d9",
-      "size": "991 MB",
-      "build": "06.11.2026",
+      "md5": "00a4501513af8058352e2731d7d6cf0c",
+      "size": "994 MB",
+      "build": "27.11.2026",
       "status": "available"
     }
   ]
